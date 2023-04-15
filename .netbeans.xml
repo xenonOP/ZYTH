@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auxiliary-configuration xmlns="http://www.netbeans.org/ns/auxiliary-configuration/1">
+    <preferences xmlns="http://www.netbeans.org/ns/auxiliary-configuration-preferences/1">
+        <module name="org-zeroturnaround-jrebel-netbeans">
+            <property name="rebelXmlGenerationInvariantToken" value="PGFwcGxpY2F0aW9uIGdlbmVyYXRlZC1ieT0ibmV0YmVhbnMiPjwvYXBwbGljYXRpb24+"/>
+        </module>
+    </preferences>
+</auxiliary-configuration>
